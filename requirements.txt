@@ -1,3 +1,5 @@
-Cython
-cysignals
-pyfasttext
+cysignals==1.8.1
+Cython==0.29.2
+future==0.17.1
+numpy==1.15.4
+pyfasttext==0.4.6
